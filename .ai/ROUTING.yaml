@@ -1,0 +1,4 @@
+# Project-specific model routing overrides.
+# Shared defaults are inherited from ~/.ai-team/ROUTING.yaml.
+# Add a category only when this project needs a measured exception.
+routing:
